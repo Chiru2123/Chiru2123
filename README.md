@@ -2,14 +2,15 @@
 
 # 💫 About Me:
 
-👋 Hi, I’m Prakash Kakaralla! I’m a software fresher and web developer with a strong foundation in both front-end and back-end technologies, passionate about creating user-friendly, efficient applications that make a positive impact.
+👋 Hi, I’m Chiranjeevulu Chenneboyina! I’m a software fresher and web developer with a strong foundation in both front-end and back-end technologies, passionate about creating user-friendly, efficient applications that make a positive impact.
 
 - 👀 Areas of Interest: I'm enthusiastic about building responsive, scalable web applications and continuously exploring new tools and technologies in web development.
 - 🌱 Currently Learning: Deepening my backend skills with Spring Boot and strengthening my knowledge of best practices in Java, REST APIs, and database management.
 - 💻 Skills: Proficient in JavaScript, HTML, CSS, React, Node.js, and familiar with modern frameworks and libraries.
 - 💞️ Collaboration Goals: Excited to collaborate on web development projects, open-source contributions, and innovative applications that make a difference.
 - 🌐 Looking for Opportunities: Eager to kickstart my career and grow within a team that values collaboration, creativity, and innovation.
-- 📫 How to Reach Me: Feel free to connect with me via kakarllaprakash108@gmail.com  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-kakaralla-712534249/) .
+- 📫 How to Reach Me: Feel free to connect with me via chyrus2123@gmail.com
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiranjeevulu-c-748855338/) .
 
 
 I’m driven by a constant desire to learn, adapt, and contribute meaningfully to any project I’m part of. I look forward to opportunities where I can apply my skills and make a positive impact in a collaborative environment.
